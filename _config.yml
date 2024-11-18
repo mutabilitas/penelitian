@@ -1,4 +1,4 @@
-title:               not a digital garden!!!!!
+title:               rujukan; catatan
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json']
 # exclude:             ['_includes/notes_graph.json', '_notes/boilerplate']

@@ -14,5 +14,8 @@ _includes/notes_graph.json
 # Obsidian config
 .obsidian/
 
-# Drafts
+# Boilerplate & Drafts
 _notes/drafts
+_notes/boilerplate
+_ogREADME
+_pages/meta/how-to.md

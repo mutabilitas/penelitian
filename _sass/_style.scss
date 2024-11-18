@@ -4,7 +4,7 @@ $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+$font-family: Arial, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
 body {
@@ -31,7 +31,7 @@ time {
 
 footer {
   margin: 2em 0;
-  font-size: 0.8em;
+  font-size: 0.75em;
   color: mix($color-text, white, 80%);
   padding-top: 1em;
 }
@@ -109,6 +109,7 @@ nav {
 }
 
 #notes-entry-container {
+  font-size: 0.8em;
   display: grid;
   grid-gap: 2em;
   grid-template-areas:
