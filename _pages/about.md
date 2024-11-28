@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love!
+<img src="{{ site.baseurl }}/assets/mollybrodak.jpg"/>
+— [molly brodak](https://twitter.com/kisses4proust/status/1775887035838111788)
